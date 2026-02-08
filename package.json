@@ -32,7 +32,7 @@
     "semantic-release": "semantic-release"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "1.25.x",
+    "@modelcontextprotocol/sdk": "1.26.x",
     "axios": "1.x",
     "dotenv": "17.x",
     "fastify": "5.x",
